@@ -17,6 +17,8 @@ Oh, before I forget:
 
 >🏴‍☠️ Luffy's the man who will become the Pirate King!
 
+You can check the published articles [here](https://orcid.org/0000-0002-5983-2528).
+
 
 ### Feel free to reach out!
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramalhao)

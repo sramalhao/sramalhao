@@ -1,12 +1,12 @@
 # {“Hello world!”} 👋
 
-My name is **Vitória** (or **Nico**), I have a bachelor's degree in biological sciences from the renowned São Paulo State University 'Júlio de Mesquita Filho' (Unesp) and I'm an aspiring data scientist.
+Hey! My name is Vitória (or just Nico), I hold a bachelor's degree in Biological Sciences from the renowned São Paulo State University 'Júlio de Mesquita Filho' (Unesp), and I am currently studying Analysis and Systems Development, aiming to become a data scientist.
 
-During my undergrad, I dabbled a bit in chemometrics with design of experiments (DoE) to develop environmentally friendly technologies (~~yes, a lot of statistics~~ ).
-After a major turn in my life related to my health, I decided to switch careers to tech and found data science, which brought back what I loved most as a biology researcher: being challenged with complex problems and seeking innovative solutions.
-_(You can check my published articles [here](https://orcid.org/0000-0002-5983-2528).)_
+During my undergrad, I delved into the world of analytical chemistry and phytotherapy, heavily utilizing chemometrics and design of experiments (DoE) to develop robust models that reduced the number of tests needed to create new technologies aligned with the principles of green chemistry (yes, a lot of statistics) _(You can check my published articles [here](https://orcid.org/0000-0002-5983-2528).)_.
 
-Here I am, sharing personal projects and lots of learning—hope you like it!
+After a major life change related to my health, I decided to switch careers to the tech field and found in data science what I loved most as a biology researcher: being challenged with complex problems and seeking innovative solutions.
+
+And now, here I am, sharing personal projects and lots of learning and I hope you like it!
 
 Oh, before I forget:
 

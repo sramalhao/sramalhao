@@ -25,11 +25,3 @@ Oh, before I forget:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramalhao)
 [![e-mail](https://img.shields.io/badge/email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](nsramalhao@gmai.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@niniconi/)
 
-
-## Machine Languages:
-
-![python](https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=python&logoColor=4B8BBE) ![sql](https://img.shields.io/badge/Postgresql-00758F?style=for-the-badge&logo=Postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-0095D5?style=for-the-badge&logo=mysql&logoColor=white)
-
-## Tools:
-![excel](https://img.shields.io/badge/MS_Excel-1D6F42?style=for-the-badge&logo=excel&logoColor=white) ![powerbi](https://img.shields.io/badge/power_bi-FFD700?style=for-the-badge&logo=powerbi&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)

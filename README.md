@@ -6,7 +6,7 @@ During my undergrad, I delved into the world of analytical chemistry and phytoth
 
 After a major life change related to my health, I decided to switch careers to the tech field and found in data science what I loved most as a biology researcher: being challenged with complex problems and seeking innovative solutions.
 
-And now, here I am, sharing personal projects and lots of learning and I hope you like it!
+And now, here I am, sharing personal projects and lots of learning. Hope you like it!
 
 Oh, before I forget:
 

@@ -6,19 +6,6 @@ After a major life change related to my health, I decided to switch careers to t
 
 And here I am, sharing personal projects and lots of learning. Hope you like it!
 
-Oh, before I forget:
-
-> 🏳️‍🌈 I am non-binary (_i go by any pronouns_) and autistic;
-
->📚 I love studying and learning new things;
-
->🐱 I'm passionate about cats;
-
->🏴‍☠️ Luffy's the man who will become the Pirate King!
-
-
-
-
 ### Feel free to reach out!
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramalhao)
 [![e-mail](https://img.shields.io/badge/email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](nsramalhao@gmai.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@niniconi/)

@@ -4,7 +4,7 @@ Hello! I'm **Vitória Ramalhão**, and I’m passionate about leveraging data an
 
 ## About Me
 - **Educational Background**: Bachelor’s degree in Biology with experience in environmental management and bioeconomy.
-- **Current Learning**: Pursuing an MBA in Data Science and Analytics, certifications in Google Data Analytics, and participating in a Python-focused data courses on DataCamp.
+- **Current Learning**: Pursuing an MBA in Data Science and Analytics, certifications in Google Data Analytics, and participating in Python-focused data courses on DataCamp.
 - **Professional Skills**:
   - Data Analysis (SQL, Python, Excel, Power BI)
   - Sustainability and Bioeconomy Projects

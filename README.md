@@ -1,12 +1,24 @@
 # {“Hello world!”} 👋
 
-Hey! My name is Vitória (or just Nico), I hold a bachelor's degree in Biological Sciences from the renowned São Paulo State University 'Júlio de Mesquita Filho' (Unesp). During my undergrad, I delved into the world of analytical chemistry and phytotherapy, heavily utilizing chemometrics and design of experiments (DoE) to develop robust models that reduced the number of tests needed to create new technologies aligned with the principles of green chemistry (yes, a lot of statistics) _(You can check my published articles [here](https://orcid.org/0000-0002-5983-2528).)_. 
+Hello! I'm **Vitória Ramalhão**, and I’m passionate about leveraging data and sustainability to create impactful solutions. With a solid background in biology and experience in data analysis, I'm currently transitioning into a data-driven career, combining my expertise in environmental sciences and technology to drive innovation.
 
-After a major life change related to my health, I decided to switch careers to the tech field. I am currently an undergraduate student in Analysis and Systems Development and pursuing an MBA in Data Science and Analytics, aiming to become a data scientist. In data science, I found what I loved most as a biology researcher: being challenged with complex problems and seeking innovative solutions.
+## About Me
+- **Educational Background**: Bachelor’s degree in Biology with experience in environmental management and bioeconomy.
+- **Current Learning**: Pursuing an MBA in Data Science and Analytics, certifications in Google Data Analytics, and participating in a Python-focused data courses on DataCamp.
+- **Professional Skills**:
+  - Data Analysis (SQL, Python, Excel, Power BI)
+  - Sustainability and Bioeconomy Projects
+  - Project Management and Administration
+  - Public Engagement and Educational Programs
+- **Languages**: English (Intermediate/Advanced)
 
-And here I am, sharing personal projects and lots of learning. Hope you like it!
+## Current Projects
+- **Python & SQL Courses**: Developing projects to showcase data processing, visualization, and analysis skills.
+- **GitHub Repository**: Organizing and publishing projects for seamless access and collaboration.
+- **Volunteer Work**: Contributing to an Autism Collective to support neurodivergent individuals.
 
-### Feel free to reach out!
+## Let's Connect
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramalhao)
 [![e-mail](https://img.shields.io/badge/email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](nsramalhao@gmai.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@niniconi/)
 
+Thank you for visiting my profile! Feel free to explore my repositories, provide feedback, or collaborate on projects. Together, let’s make data work for a sustainable future.

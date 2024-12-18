@@ -1,6 +1,6 @@
 # {“Hello world!”} 👋
 
-Hello! I'm **Vitória Ramalhão**, and I’m passionate about leveraging data and sustainability to create impactful solutions. With a solid background in biology and experience in data analysis, I'm currently transitioning into a data-driven career, combining my expertise in environmental sciences and technology to drive innovation.
+Hello! I'm **Nikos**, and I’m passionate about leveraging data and sustainability to create impactful solutions. With a solid background in biology and experience in data analysis, I'm currently transitioning into a data-driven career, combining my expertise in environmental sciences and technology to drive innovation.
 
 ## About Me
 - **Educational Background**: Bachelor’s degree in Biology with experience in environmental management and bioeconomy.

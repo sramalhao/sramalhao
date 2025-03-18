@@ -1,6 +1,10 @@
 # {“Hello world!”} 👋
 
-Hello! I'm Vitória (or **Nico**), and I’m passionate about leveraging data and sustainability to create impactful solutions. With a solid background in biology and experience in data analysis, I'm currently transitioning into a data-driven career, combining my expertise in environmental sciences and technology to drive innovation.
+Hello! I'm Vitória (or **Nico**), and I'm a biologist with a keen eye for detail and a passion for creating a more sustainable world.
+
+Motivated to use my experience to serve a greater purpose, I seek to collaborate with people who share this vision.
+
+My goal is to develop strategies that strengthen vulnerable communities and promote meaningful change. Instead of focusing on the top of the pyramid, I am dedicated to improving the lives of those who need it most.
 
 ## About Me
 - **Educational Background**: Bachelor’s degree in Biology with experience in environmental management and bioeconomy.
@@ -10,7 +14,7 @@ Hello! I'm Vitória (or **Nico**), and I’m passionate about leveraging data an
   - Sustainability and Bioeconomy Projects
   - Project Management and Administration
   - Public Engagement and Educational Programs
-- **Languages**: English (Intermediate/Advanced)
+- **Languages**: English (Intermediate/Advanced) and Portuguese (Native)
 
 ## Current Projects
 - **Python & SQL Courses**: Developing projects to showcase data processing, visualization, and analysis skills.

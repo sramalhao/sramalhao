@@ -1,7 +1,6 @@
 # {“Hello world!”} 👋
 
-Hello! I'm Vitória (or **Nico**), and I'm a biologist with a keen eye for detail and a passion for creating a more sustainable world. I'm motivated to use my experience to serve a greater purpose and I seek to collaborate with people who share this vision.
-My goal is to develop strategies that strengthen vulnerable communities and promote meaningful change. Instead of focusing on the top of the pyramid, I am dedicated to improving the lives of those who need it most.
+Hello! I'm Vitória (or **Nico**), and I'm a biologist who loves details and is super passionate about sustainability. I'm all about using my skills to make a positive impact and I'm excited to team up with others who feel the same way
 
 ## About Me
 - **Educational Background**: Bachelor’s degree in Biology with experience in environmental management and bioeconomy.

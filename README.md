@@ -1,21 +1,22 @@
-# {“Hello world!”} 👋
+👩‍💻 Hi! Welcome to my GitHub
 
-Hello! I'm Vitória (or **Nico**), and I'm a biologist who loves details and is super passionate about sustainability. I'm all about using my skills to make a positive impact and I'm excited to team up with others who feel the same way
+My name is Vitória Ramalhão, and I’m a **Data Analyst** based in Brazil.
 
-## About Me
-- **Educational Background**: Bachelor’s degree in Biology with experience in environmental management and bioeconomy.
-- **Current Learning**: Pursuing an MBA in Data Science and Analytics, certifications in Google Data Analytics, and participating in Python-focused data courses on DataCamp.
-- **Professional Skills**:
-  - Data Analysis (SQL, Python, Excel, Power BI)
-  - Sustainability and Bioeconomy Projects
-  - Project Management and Administration
-  - Public Engagement and Educational Programs
-- **Languages**: English (Intermediate/Advanced) and Portuguese (Native)
+I currently work with data applied to **innovation**, supporting decision-making and turning data into actionable insights.
 
-## Current Projects
-- **Python & SQL Courses**: Developing projects to showcase data processing, visualization, and analysis skills.
-- **GitHub Repository**: Organizing and publishing projects for seamless access and collaboration.
-- **Volunteer Work**: Contributing to an Autism Collective to support neurodivergent individuals.
+I have a background in **Biology and Environmental Management**, which gives me a strong foundation in statistical analysis, experimental design, and working with complex datasets. Throughout my academic and professional journey, I’ve worked with data in areas such as bioinformatics, environmental analysis, and research.
+
+My technical toolkit includes:
+
+- Python (Pandas, NumPy)
+- SQL
+- Excel
+- Data visualization (Power BI / Tableau)
+
+I’m particularly interested in applying data to solve real-world problems related to innovation, sustainability, and business intelligence.
+
+Here, you’ll find projects that reflect my work with data — combining analytical thinking, domain knowledge, and practical problem-solving.
+___
 
 ## Let's Connect
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramalhao)

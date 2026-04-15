@@ -13,9 +13,6 @@ My technical toolkit includes:
 - Excel
 - Data visualization (Power BI / Tableau)
 
-I’m particularly interested in applying data to solve real-world problems related to innovation, sustainability, and business intelligence.
-
-Here, you’ll find projects that reflect my work with data — combining analytical thinking, domain knowledge, and practical problem-solving.
 ___
 
 ## Let's Connect
